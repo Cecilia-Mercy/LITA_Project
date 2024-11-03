@@ -2,10 +2,15 @@
 
 ## This is my first time creating a Documentation in GitHub on Pivot Tables
 [Project Overview](#project-overview)
+
 [Data Sources](#data-sources)
+
 [Tool Used](#tool-used)
+
 [Data CLeaning and Preparations](#data-cleaning-and-preparations)
+
 [Exploratory Data Analysis](#exploratory-data-analysis) 
+
 [Data Analysis](#data-analysis) 
 
 ## Project Overview
