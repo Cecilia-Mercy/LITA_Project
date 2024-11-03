@@ -37,6 +37,7 @@ WHERE CONDIDION = TRUE
 ```
 
 ### Data Visualization
-Screenshot (286).png
+
+![Screenshot (286)](https://github.com/user-attachments/assets/f493b7d0-b3df-4ea7-931a-de6f8e689632)
 
 
