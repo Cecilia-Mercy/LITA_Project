@@ -38,6 +38,15 @@ WHERE CONDIDION = TRUE
 
 ### Data Visualization
 
-![Screenshot (286)](https://github.com/user-attachments/assets/f493b7d0-b3df-4ea7-931a-de6f8e689632)
+![Screenshot (286)](https://github.com/user-attachments/assets/18a90112-5576-4e08-89b0-5e4c65ef5f0c)
 
+
+🥇
+
+💻
+
+|Heading 1|Heading 2|Heading 3|
+|---------|---------|---------|
+|Table 1|Table 2|Table 3|
+🥇
 
