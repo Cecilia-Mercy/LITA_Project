@@ -13,7 +13,11 @@ The primary source of Data used here is Data Sale.cvs and this is an open source
   1. For Data Cleaning
   2. For Analysis
   3. FOr Data Visualization
-- SQL- Structured Query Language
-  1. for Quering of Data
-- GitHub
-  1. for Portfolio Building.
+- SQL- Structured Query Language for Quering of Data
+- GitHub for Portfolio Building.
+
+### Data CLeaning and Preparations
+In the Initial phase of the Data cleaning and preparations, we perform the following action;
+1. Data loading and Inspection
+2. Handling missing Variables
+3. Data Cleaning and formatting
