@@ -1,14 +1,23 @@
 # LITA_Project
 
 ## This is my first time creating a Documentation in GitHub on Pivot Tables
+[Project Overview](#project-overview)
+[Data Sources](#data-sources)
+[Tool Used](#tool-used)
+[Data CLeaning and Preparations](#data-cleaning-and-preparations)
+[Exploratory Data Analysis](#exploratory-data-analysis) 
+[Data Analysis](#data-analysis) 
+
 ## Project Overview
 ---
 This Data Analysis project aims to generate insight into the sales performance of some medical representatives of a Pharma company for the year 2024. By analysing the various parameters in the data received, we seek to gather enough insight to make reasonable decisions which then enable us to tell a compelling stories around our data from the insight gotten and to know the best performance from out data.
 
 ### Data Sources
+---
 The primary source of Data used here is Data Sale.cvs and this is an open source data that can be freely downloaded from an open source online such as Kaggle or FRED or any other data repository site.
 
 ### Tool Used
+---
 - Microsoft Excel [Download Here] (https://www.microsoft.com)
   1. For Data Cleaning
   2. For Analysis
